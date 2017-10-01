@@ -1,0 +1,8 @@
+General:
+
+mpirun -n 2 -host bwlf30,bwlf31,bwlf32,bwlf29 ./nbody
+
+
+Adaptivity Command:
+
+mpirun -n 3 -host bwlf30,bwlf31,bwlf32 ./nbody 5

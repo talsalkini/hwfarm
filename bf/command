@@ -1,0 +1,8 @@
+General:
+
+mpirun -n 2 -host bwlf30,bwlf31,bwlf32,bwlf29 ./blast 1000000 4
+
+
+Adaptivity Command:
+
+mpirun -n 3 -host bwlf30,bwlf31,bwlf32 ./blast 50000000 4

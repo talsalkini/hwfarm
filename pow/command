@@ -1,0 +1,2 @@
+mpirun -n 2 -host bwlf30,bwlf31,bwlf32,bwlf29 ./pow 10 10
+

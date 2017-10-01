@@ -1,0 +1,3 @@
+
+mpirun -n 2 -host bwlf30,bwlf31,bwlf32,bwlf29 ./rt 150 1500 test11 100000 1
+
